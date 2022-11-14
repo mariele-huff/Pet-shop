@@ -1,0 +1,279 @@
+.text-services{
+    display: inline-block;
+    margin-bottom: -50%;
+    margin-left: 45%;
+    margin-top: -26%;
+    float: left;
+    
+}
+.conteudo{
+height:25.6rem;
+}
+#titulo-banho{
+ text-align: left;
+    color: #ff0077;
+}
+
+#imagem-banho{
+width: 35rem;
+height:25rem;
+margin-left: -10px;
+object-fit: cover;
+
+}
+
+#text-banho{
+    text-align: left;
+
+}
+
+#text-banho2{
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    color:#858585; 
+}
+
+
+#centro-medico{
+    width: 35rem;
+    height:22rem;
+    margin-left:62%;
+    object-fit: cover;
+}
+
+.conteudo{
+    margin-top: 5rem;
+}
+
+#doctor{
+    background-color: #ff0077;
+    width: 100%;
+    height:22rem;
+}
+#title-doctor{
+    font-size: 32px;
+    color: #ffffff;
+    margin-top: -330px;
+    margin-left: 37%;
+}
+
+#text-doctor{
+    text-align: right;
+    color: white;
+    margin-top:- 300px;
+    margin-right: 45%;
+}
+#text-doctor2{
+    text-align: right;
+    color:#ffd8ea;
+    margin-top:0;
+    margin-right: 45%;
+}
+
+#farmacia-pet{
+
+ width: 200x;
+height: 350px;
+margin-top:0;
+margin-bottom:0;
+margin-left: -10px;
+object-fit: cover;
+}
+
+#title-farmacia{
+font-size: 32px;
+    color: #ffffff;
+    text-align: left;
+    margin-left: 45%;
+    margin-top: -25%;
+    
+
+}
+#farmacia{
+    background-color: #0077ff;
+    width: 200x;
+height: 350px;
+margin-right: -10px;
+    }
+    #text-farmacia{
+        color: #ffffff;
+        text-align: left;
+        margin-left: 45%;
+        margin-top: 0;
+
+    }
+    #text-farmacia2{
+        color:#cecece;
+
+        text-align: left;
+        margin-left: 45%;
+        margin-top: 0;
+    }
+
+    
+
+
+#tele-img {
+    width: 450px;
+    height: 350px;
+    margin-top:0;
+     margin-bottom:0;
+    margin-left: 65%;
+    object-fit: cover;
+
+}
+
+#tele-entrega{
+    background-color: #FF320D;
+    width: 200x;
+    height: 350px;
+    margin-left: -10px;
+
+
+
+}
+
+#title-tele{
+    font-size: 32px;
+    color: #ffffff;
+    margin-top: -300px;
+    margin-left: 40%;
+
+}
+
+#text-tele{
+    text-align: right;
+    color: white;
+    margin-top:- 300px;
+    margin-right: 45%;
+}
+#text-tele2{
+    text-align: right;
+    color:#cecece;
+    margin-top:0;
+    margin-right: 45%;
+}
+
+#tele-busca-img{
+
+ width: 200x;
+ height: 350px;
+ margin-top:0;
+ margin-bottom:0;
+ margin-left: -10px;
+ object-fit: cover;
+}
+
+#tele-busca{
+    background-color: #C10DFF;
+    width: 200x;
+    height: 350px;
+    margin-right: -10px;
+}
+
+    #title-busca{
+        font-size: 32px;
+            color: #ffffff;
+            text-align: left;
+            margin-left: 45%;
+            margin-top: -25%;
+    }
+            #text-busca{
+                color: #ffffff;
+                text-align: left;
+                margin-left: 45%;
+                margin-top: 0;
+
+            }
+            #text-busca2{
+                color:#cecece;
+                text-align: left;
+                margin-left: 45%;
+                margin-top: 0;
+            }
+
+
+            #creche-img{
+                width: 450px;
+                height: 350px;
+                margin-top:0;
+                 margin-bottom:0;
+                margin-left: 65%;
+                object-fit: cover;
+
+            }
+
+            #creche{
+                background-color:#6cf515;
+                width: 200x;
+                height: 350px;
+                margin-left: -10px;
+                 }
+    
+            #title-creche{
+                font-size: 32px;
+                color: #ffffff;
+                margin-top: -300px;
+                margin-left: 40%;
+    
+            }
+    
+            #text-creche{
+                text-align: right;
+                color: white;
+                margin-top:- 300px;
+                margin-right: 45%;
+            }
+            #text-creche2{
+                text-align: right;
+                color: #cecece;
+                margin-top:0;
+                margin-right: 45%;
+            }
+
+
+#hotel-img{
+
+    width: 550px;
+    height: 350px;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left: -10px;
+    object-fit: cover;
+   }
+
+   #hotel{
+       background-color:#382c32;
+       width: 200x;
+       height: 350px;
+   }
+
+       #title-hotel{
+           font-size: 32px;
+               color: #ffffff;
+               text-align: left;
+               margin-left: 45%;
+               margin-top: -25%;
+       }
+               #text-hotel{
+                   color: #ffffff;
+                   text-align: left;
+                   margin-left: 45%;
+                   margin-top: 0;
+   
+               }
+               #text-hotel2{
+                   color:#cecece;
+                   text-align: left;
+                   margin-left: 45%;
+                   margin-top: 0;
+               }
+
+               #inf-service{
+                   margin-top: 0;
+                   background-color: #ff0077;
+              
+               }
+
+       
