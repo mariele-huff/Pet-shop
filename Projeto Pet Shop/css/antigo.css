@@ -1,0 +1,679 @@
+
+
+        
+            .about-section {
+                background-color: #0066ff;
+                color: #ffffff;
+                padding-top: 20px;
+                padding-bottom: 40px;
+                margin-left: auto;
+                margin-right: auto;
+                text-align:left;
+                
+              }
+          
+              .font {
+                font-family: 'Open Sans', sans-serif;
+                font-weight: 100;
+                font-size: medium;
+              }
+              .font-description {
+                  font-family: 'Open Sans', sans-serif;
+                  font-weight: 100;
+                  color: gray;
+                  text-decoration: none;
+              }
+              .row {
+                margin: -20px;
+              }
+          
+              .column {
+                width: 25%;
+                display: inline-block;
+                float: left;
+                
+                padding: 20px;
+                box-sizing: border-box;
+              } 
+          
+              .product-name {
+                color: #ff0077;  
+                text-align: center;
+                font-weight: bold;
+                font-weight: 700;
+                font-family: 'Open Sans', sans-serif
+                
+              }
+          
+              .container {
+                width: 1000px;
+                max-width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+                
+              }
+      
+              .conteudo{
+                  display: flex;
+                  flex-direction: column;
+                  gap:8px;
+              }
+          
+              i{
+                color: #ff0077;
+                font-size: 4rem;
+                padding-bottom: 15px;
+              }
+      
+            
+          
+              .logo{
+                width: 200px;
+                height: 150px;
+                padding-left: 40px;
+              }
+          
+              .logo-about {
+                width: 200px;
+                height: 150px;
+              }
+          
+              .navi {
+                color: black;
+                padding-right: 40px;
+                padding-left: 10px;
+                justify-content: space-between;
+                display: inline-block;
+                
+              }
+              .navi a {
+                color: black;
+                font-family: 'Open Sans', sans-serif;
+                font-weight: 600;
+                text-decoration: none;
+                height: 70px;
+              }
+          
+              a:active {
+                background-color: #ff0077;
+                align-self: stretch;
+                padding: 30px;
+              
+                
+      
+              }
+              
+             
+              
+              
+              
+          
+              #button-vermais{
+              width:130px;
+              height:40px;
+              font-size: 16px;
+              color:#ffffff;
+              background-color:#ff0077;
+              border-radius:10px;
+              margin-left: 45%;
+              margin-top: 10%;
+              border-style: none;
+              margin-bottom: 10px;
+              }
+              .informs{
+                  background-color: #ff0077;
+                  color:#ffd8ea;
+                padding-top: 20px;
+                padding-bottom: 40px;
+                margin-left: auto;
+                margin-right: auto;
+                text-align:left;
+              }
+              .titulo-contato{
+                  width: 150px;
+                  height: 80px;
+                  margin-left: 5%;
+                  }
+              #contact{
+                  font-family: 'Open Sans', sans-serif;
+                  font-weight: 100;
+                  font-size: 16px;
+                  color: #ffd8ea;
+                  text-decoration: none;
+                  margin-left: 5%;
+              }
+              .oppening-hours{
+                  font-family: 'Open Sans', sans-serif;
+                  text-align: center;
+                  display: inline-block;
+                  font-size: 16px;
+                  color:#ffd8ea;
+                  float: left;
+                  margin-left: 38%;
+                  margin-top: -15%;
+                 }
+              #text-hours{
+                  font-family: 'Open Sans', sans-serif; 
+                  font-size: 16px;
+          
+              }
+              .redes{
+                  font-family: 'Open Sans', sans-serif; 
+                  font-size: 16px;
+                  text-align: center;
+                  display: inline-block;
+                  color:#ffd8ea;
+                  float: left;
+                  margin-left: 80%;
+                  margin-top: -15%;
+           
+              } 
+              .item-nav{
+              margin: 0 20px;
+              
+      
+              text-align: center;
+              }
+              a:hover{ 
+               color: #ff0077;
+               
+              }
+             
+              i .redes{
+                  font-size: 20px;
+              }
+              
+                        
+              select{
+                  background-color: #ffffff;
+                  border-color: #cecece;
+                  
+              }
+          select:focus{
+            outline: 0;
+                  box-shadow: inset 0 0 1em #ffd8ea;
+          }
+              textarea{
+                  background-color: #ffffff;
+                  border-color: #cecece;
+                  
+              }
+                  textarea:focus{
+                      outline: 0;
+                      box-shadow: inset 0 0 1em #ffd8ea;
+                     
+                  }
+          
+              footer {
+                background-color: #ff0077;
+                color: #ffd8ea;
+                padding-top: 40px;
+                padding-bottom: 40px;
+                text-align: center;
+                font-size: 14px;
+                margin-top:0.82px;
+              }
+                .row-rede {
+                  margin: -20px;
+                }
+            
+                .column-rede {
+                  width: 25%;
+                  display: inline-block;
+                  float: left;
+                  padding: 2px;
+                  box-sizing: border-box;
+                }
+            
+                
+              
+              .product1:hover{
+                  
+                  text-decoration: none;  
+                  font-family: 'Open Sans', sans-serif;
+                  border-style:solid;
+                  border-color: #858585;
+                  border-radius:10px;
+                  border-width: thin;
+                  opacity: 0.5;
+          
+              }
+          
+                  
+              
+              .product1{
+                  text-decoration: none;  
+                  font-family: 'Open Sans', sans-serif;
+                  
+              }
+              /*Pagina sobre*/
+          
+              #imagem-sobre{
+                  width: 900x;
+            height: 600px;
+            padding-left: 60px;
+            margin-top:10%;
+            margin-bottom: 50px;
+              }
+      
+              #text-about{
+                  display: inline-block;
+                  vertical-align: top;
+                  margin-top: -49%;
+                  margin-left: 40%;
+                  color:#382c32;
+              }
+              *{
+                  font-family:'Open Sans', sans-serif; 
+              }
+      
+              #title-about{
+              font-size: 36px;
+              margin-top: 8px;
+              color: #382c32;
+              }
+      
+              .pag-about{
+                  margin-top: 30px;
+              }
+              #button-faleconosco{
+              width:150px;
+              height:40px;
+              font-size: 16px;
+              color:#ffffff;
+              background-color:#ff0077;
+              border-radius:10px;
+              margin-left: 0;
+              margin-top: 20px;
+              border-style: none;
+              margin-bottom: 10px;
+      
+              }
+              .redes i {
+                  color:#ffffff;
+                  font-size: 1rem;
+                  padding-bottom: 15px;
+                  
+                }
+            
+                .row-rede {
+                  margin: -10px;
+                }
+            
+                .column-rede {
+                  width: 15%;
+                  display: inline-block;
+            
+                  padding: 10px;
+                  box-sizing: border-box;
+                }
+      
+                
+             
+               
+                
+      
+              /*serviços*/
+      
+              .text-services{
+                  display: inline-block;
+                  margin-bottom: -50%;
+                  margin-left: 45%;
+                  margin-top: -26%;
+                  float: left;
+                  
+              }
+      
+              #titulo-banho{
+               text-align: left;
+                  color: #ff0077;
+              }
+              #imagem-banho{
+              width: 200x;
+              height: 350px;
+              margin-top:70px;
+              margin-bottom:0;
+              margin-left: -10px;
+              object-fit: cover;
+            
+              }
+      
+              #text-banho{
+                  text-align: left;
+      
+              }
+      
+              #text-banho2{
+                  display: inline-block;
+                  vertical-align: top;
+                  text-align: left;
+                  color:#858585; 
+              }
+      
+      
+              #centro-medico{
+                  width: 200x;
+                  height: 350px;
+                  margin-top:-10px;
+                  margin-right: -10px;
+                  margin-bottom: 0;
+                  margin-left:60%;
+                  object-fit: cover;
+                  
+              }
+      
+              #doctor{
+                  background-color: #ff0077;
+                  width: 200x;
+                  height: 350px;
+                  margin-top: -10px;
+                  margin-left: -10px;
+                  
+                  
+                  
+      
+                  
+      
+              }
+              #title-doctor{
+                  font-size: 32px;
+                  color: #ffffff;
+                  margin-top: -330px;
+                  margin-left: 37%;
+              }
+      
+              #text-doctor{
+                  text-align: right;
+                  color: white;
+                  margin-top:- 300px;
+                  margin-right: 45%;
+              }
+              #text-doctor2{
+                  text-align: right;
+                  color:#ffd8ea;
+                  margin-top:0;
+                  margin-right: 45%;
+              }
+      
+              #farmacia-pet{
+      
+               width: 200x;
+              height: 350px;
+              margin-top:0;
+              margin-bottom:0;
+              margin-left: -10px;
+              object-fit: cover;
+              }
+      
+              #title-farmacia{
+              font-size: 32px;
+                  color: #ffffff;
+                  text-align: left;
+                  margin-left: 45%;
+                  margin-top: -25%;
+                  
+            
+              }
+              #farmacia{
+                  background-color: #0077ff;
+                  width: 200x;
+              height: 350px;
+              margin-right: -10px;
+                  }
+                  #text-farmacia{
+                      color: #ffffff;
+                      text-align: left;
+                      margin-left: 45%;
+                      margin-top: 0;
+      
+                  }
+                  #text-farmacia2{
+                      color:#cecece;
+      
+                      text-align: left;
+                      margin-left: 45%;
+                      margin-top: 0;
+                  }
+             
+                  
+      
+              
+              #tele-img {
+                  width: 450px;
+                  height: 350px;
+                  margin-top:0;
+                   margin-bottom:0;
+                  margin-left: 65%;
+                  object-fit: cover;
+      
+              }
+      
+       #tele-entrega{
+                  background-color: #FF320D;
+                  width: 200x;
+                  height: 350px;
+                  margin-left: -10px;
+      
+      
+          
+       }
+      
+              #title-tele{
+                  font-size: 32px;
+                  color: #ffffff;
+                  margin-top: -300px;
+                  margin-left: 40%;
+      
+              }
+      
+              #text-tele{
+                  text-align: right;
+                  color: white;
+                  margin-top:- 300px;
+                  margin-right: 45%;
+              }
+              #text-tele2{
+                  text-align: right;
+                  color:#cecece;
+                  margin-top:0;
+                  margin-right: 45%;
+              }
+      
+              #tele-busca-img{
+      
+               width: 200x;
+               height: 350px;
+               margin-top:0;
+               margin-bottom:0;
+               margin-left: -10px;
+               object-fit: cover;
+              }
+      
+              #tele-busca{
+                  background-color: #C10DFF;
+                  width: 200x;
+                  height: 350px;
+                  margin-right: -10px;
+              }
+      
+                  #title-busca{
+                      font-size: 32px;
+                          color: #ffffff;
+                          text-align: left;
+                          margin-left: 45%;
+                          margin-top: -25%;
+                  }
+                          #text-busca{
+                              color: #ffffff;
+                              text-align: left;
+                              margin-left: 45%;
+                              margin-top: 0;
+              
+                          }
+                          #text-busca2{
+                              color:#cecece;
+                              text-align: left;
+                              margin-left: 45%;
+                              margin-top: 0;
+                          }
+      
+      
+                          #creche-img{
+                              width: 450px;
+                              height: 350px;
+                              margin-top:0;
+                               margin-bottom:0;
+                              margin-left: 65%;
+                              object-fit: cover;
+      
+                          }
+      
+                          #creche{
+                              background-color:#6cf515;
+                              width: 200x;
+                              height: 350px;
+                              margin-left: -10px;
+                               }
+                  
+                          #title-creche{
+                              font-size: 32px;
+                              color: #ffffff;
+                              margin-top: -300px;
+                              margin-left: 40%;
+                  
+                          }
+                  
+                          #text-creche{
+                              text-align: right;
+                              color: white;
+                              margin-top:- 300px;
+                              margin-right: 45%;
+                          }
+                          #text-creche2{
+                              text-align: right;
+                              color: #cecece;
+                              margin-top:0;
+                              margin-right: 45%;
+                          }
+      
+      
+              #hotel-img{
+      
+                  width: 550px;
+                  height: 350px;
+                  margin-top:0;
+                  margin-bottom:0;
+                  margin-left: -10px;
+                  object-fit: cover;
+                 }
+         
+                 #hotel{
+                     background-color:#382c32;
+                     width: 200x;
+                     height: 350px;
+                 }
+         
+                     #title-hotel{
+                         font-size: 32px;
+                             color: #ffffff;
+                             text-align: left;
+                             margin-left: 45%;
+                             margin-top: -25%;
+                     }
+                             #text-hotel{
+                                 color: #ffffff;
+                                 text-align: left;
+                                 margin-left: 45%;
+                                 margin-top: 0;
+                 
+                             }
+                             #text-hotel2{
+                                 color:#cecece;
+                                 text-align: left;
+                                 margin-left: 45%;
+                                 margin-top: 0;
+                             }
+      
+                             #inf-service{
+                                 margin-top: 0;
+                                 background-color: #ff0077;
+                            
+                             }
+      
+                     
+      
+              /* Fale conosco*/
+              #title-contact{
+                  margin-top: 10%;
+                  font-size: 36px;
+                  margin-left:20% ;
+                  color: #382c32;
+              }
+              .form-item{
+                  
+                  width: 35%;
+                  min-height: 30px;
+                  margin-bottom: 20px;
+                  box-sizing: border-box;
+                  margin-left: 20%;
+                  text-decoration: none;  
+                  font-family: 'Open Sans', sans-serif;
+                  border-style:solid;
+                  border-color: #cecece;
+                  border-radius:5px;
+                  border-width: thin;
+                  
+                  
+              }
+              
+              input:focus{
+                  outline: 0;
+                  box-shadow: inset 0 0 1em #ffd8ea;
+              }
+      
+          
+      
+              #button-enviar{
+              width:130px;
+              height:40px;
+              font-size: 16px;
+              color:#ffffff;
+              background-color:#ff0077;
+              border-radius:10px;
+              margin-left: 20%;
+              margin-top: 10px;
+              margin-bottom: 150px;
+              border-style: none;
+              
+              }
+              .title-form{
+                  color: #858585;
+                  margin-left: 20%;
+              }
+              .title-inf{
+                  color:#858585;
+                  font-size: 14px;
+              }
+      
+              .inf p {
+                  margin-top: 5px;
+                  margin-bottom: 1px;
+                }
+      
+              .inf{
+                  margin-left: 60%;
+                  margin-top: -57%;
+              }
+              .informs-contact
+              {
+                  background-color: #ff0077;
+                  color:#ffd8ea;
+                padding-top: 20px;
+                padding-bottom: 40px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 15%;
+                text-align:left;
+              }
+      
+      
