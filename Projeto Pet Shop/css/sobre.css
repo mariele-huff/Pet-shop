@@ -1,29 +1,31 @@
 #imagem-sobre {
     width: 900x;
     height: 600px;
-    padding-left: 60px;
-    margin-top: 10%;
-    margin-bottom: 50px;
+    margin-left: 10rem;
 }
 
 #text-about {
     display: inline-block;
     vertical-align: top;
-    margin-top: -45%;
-    margin-left: 40%;
     color: #382c32;
 }
-
-
 
 #title-about {
     font-size: 36px;
-    margin-bottom: 2rem;
     color: #382c32;
 }
 
+#p-about{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 .pag-about {
-    margin-top: 30px;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
 }
 
 #button-faleconosco {
@@ -51,21 +53,7 @@
 
 }
 
-
 .logo-about {
     width: 200px;
     height: 150px;
-}
-
-#button-vermais {
-    width: 130px;
-    height: 40px;
-    font-size: 16px;
-    color: #ffffff;
-    background-color: #ff0077;
-    border-radius: 10px;
-    margin-left: 45%;
-    margin-top: 10%;
-    border-style: none;
-    margin-bottom: 10px;
 }
